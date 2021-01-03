@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/joy-cards/static/css/main.29782d76.chunk.css",
+    "main.js": "/joy-cards/static/js/main.604bea07.chunk.js",
+    "main.js.map": "/joy-cards/static/js/main.604bea07.chunk.js.map",
+    "runtime-main.js": "/joy-cards/static/js/runtime-main.9d1a67b5.js",
+    "runtime-main.js.map": "/joy-cards/static/js/runtime-main.9d1a67b5.js.map",
+    "static/js/2.721d4ec5.chunk.js": "/joy-cards/static/js/2.721d4ec5.chunk.js",
+    "static/js/2.721d4ec5.chunk.js.map": "/joy-cards/static/js/2.721d4ec5.chunk.js.map",
+    "static/js/3.fcae9fe2.chunk.js": "/joy-cards/static/js/3.fcae9fe2.chunk.js",
+    "static/js/3.fcae9fe2.chunk.js.map": "/joy-cards/static/js/3.fcae9fe2.chunk.js.map",
+    "index.html": "/joy-cards/index.html",
+    "static/css/main.29782d76.chunk.css.map": "/joy-cards/static/css/main.29782d76.chunk.css.map",
+    "static/js/2.721d4ec5.chunk.js.LICENSE.txt": "/joy-cards/static/js/2.721d4ec5.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/joy-cards/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d1a67b5.js",
+    "static/js/2.721d4ec5.chunk.js",
+    "static/css/main.29782d76.chunk.css",
+    "static/js/main.604bea07.chunk.js"
+  ]
+}
